@@ -1,6 +1,6 @@
 package pl.grasser.tripplanner.service
 
-import akka.actor.Props
+import akka.actor.{ActorSystem, Props}
 import org.scalatest.FunSuite
 import org.scalatest.matchers.ShouldMatchers
 
@@ -12,9 +12,10 @@ import org.scalatest.matchers.ShouldMatchers
 
 class LocationServiceTest extends FunSuite with ShouldMatchers{
 
-  test("Test actor initialization"){
-    val locationService = Props[LocationService]
-    locationService should not be null
+  test("Test consuming message"){
+    val system = ActorSystem("HelloSystem")
+    val locationService = system.actorOf(Props[LocationService], name = "helloactor")
+    locationService ! " sialalal"
   }
 
 }

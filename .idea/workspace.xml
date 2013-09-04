@@ -26,10 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec50577-7a88-4c2b-8ee3-463e28582787" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/locationApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" />
-      <change type="DELETED" beforePath="X:\private\workspace\github\locationApp\testFile" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TripPlanner.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,14 +37,14 @@
     <file path="/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363903787554" ignored="false" />
     <file path="/a.dummy" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363475268286" ignored="false" />
     <file path="/a.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363476026226" ignored="false" />
-    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378324043034" ignored="false" />
+    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331027980" ignored="false" />
     <file path="$PROJECT_DIR$/../spring-akka-sample/src/main/java/org/springframework/samples/travel/search/AkkaSearchBean.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363526684686" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/domain/Location.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="/TripPlanner.iml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378320229271" ignored="false" />
-    <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378321072664" ignored="false" />
-    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378322200845" ignored="false" />
+    <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331887692" ignored="false" />
+    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331938637" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,16 +134,27 @@
       <file leaf-file-name="LocationService.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+            <state line="13" column="43" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocationServiceTest.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LocationServiceTest.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="6" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+            <state line="16" column="60" selection-start="435" selection-end="435" vertical-scroll-proportion="0.60310423">
+              <folding>
+                <element signature="e#40#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShouldMatchers.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/matchers/ShouldMatchers.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="882" column="6" selection-start="35524" selection-end="35524" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,15 +169,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Location.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/domain/Location.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="6" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -178,10 +178,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="locationApp.ipr" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="locationApp.ipr" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locationApp.ipr">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="0.9051724">
+            <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="-21.0">
               <folding />
             </state>
           </provider>
@@ -352,16 +352,16 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/TripPlanner.iws" />
         <option value="$PROJECT_DIR$/TripPlanner.iml" />
-        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -642,7 +642,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.LocationTest.construct object">
+  <component name="RunManager" selected="ScalaTest.LocationServiceTest.Test actor initialization">
     <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="TripPlanner" />
       <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
@@ -655,37 +655,6 @@
       <method>
         <option name="Make" enabled="false" />
       </method>
-    </configuration>
-    <configuration default="false" name="LocationTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="pl.grasser.tripplanner.domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TripPlanner" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="pl.grasser.tripplanner.domain" />
-      <option name="MAIN_CLASS_NAME" value="pl.grasser.tripplanner.domain.LocationTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Profile ">
-        <option name="myExternalizedOptions" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
     </configuration>
     <configuration default="false" name="LocationTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -733,6 +702,50 @@
       <RunnerSettings RunnerId="Profile ">
         <option name="myExternalizedOptions" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocationServiceTest.Init actor" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Init actor" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocationServiceTest.Test actor initialization" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Test actor initialization" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -931,18 +944,19 @@
       </ConfigurationWrapper>
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Groovy.build" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LocationTest" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.build" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LocationTest" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
         <item index="4" class="java.lang.String" itemvalue="Groovy.build" />
       </list>
     </recent_temporary>
@@ -999,15 +1013,19 @@
       <created>1378321199720</created>
       <updated>1378321199720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="actor initialization">
+      <created>1378331030018</created>
+      <updated>1378331030018</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.8719317" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15314835" sideWeight="0.7397108" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18468468" sideWeight="0.6926286" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1025,8 +1043,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.178762" sideWeight="0.7397108" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26028922" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21557271" sideWeight="0.6926286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30737135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.67045456" order="3" side_tool="true" content_ui="tabs" />
@@ -1079,7 +1097,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed actor" />
+    <option name="LAST_COMMIT_MESSAGE" value="actor initialization" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1099,6 +1117,7 @@
     <MESSAGE value="added akka" />
     <MESSAGE value="config files" />
     <MESSAGE value="fixed actor" />
+    <MESSAGE value="actor initialization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1108,13 +1127,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/domain/Location.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="49" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" />
@@ -1154,30 +1166,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/FunSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1370" column="6" selection-start="59450" selection-end="59450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1205,8 +1196,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/locationApp.ipr">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="0.9051724">
+        <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="-21.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/matchers/ShouldMatchers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="882" column="6" selection-start="35524" selection-end="35524" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="43" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="60" selection-start="435" selection-end="435" vertical-scroll-proportion="0.60310423">
+          <folding>
+            <element signature="e#40#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
