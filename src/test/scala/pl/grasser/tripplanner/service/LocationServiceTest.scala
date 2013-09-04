@@ -13,8 +13,8 @@ import org.scalatest.matchers.ShouldMatchers
 class LocationServiceTest extends FunSuite with ShouldMatchers{
 
   test("Test consuming message"){
-    val system = ActorSystem("HelloSystem")
-    val locationService = system.actorOf(Props[LocationService], name = "helloactor")
+    val system = ActorSystem("TestSystem")
+    val locationService = system.actorOf(Props[LocationService])
     locationService ! " sialalal"
   }
 

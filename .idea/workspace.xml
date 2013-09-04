@@ -37,14 +37,14 @@
     <file path="/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363903787554" ignored="false" />
     <file path="/a.dummy" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363475268286" ignored="false" />
     <file path="/a.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363476026226" ignored="false" />
-    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331027980" ignored="false" />
+    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378332032293" ignored="false" />
     <file path="$PROJECT_DIR$/../spring-akka-sample/src/main/java/org/springframework/samples/travel/search/AkkaSearchBean.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363526684686" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/domain/Location.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="/TripPlanner.iml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378320229271" ignored="false" />
     <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331887692" ignored="false" />
-    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331938637" ignored="false" />
+    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378332117950" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <file leaf-file-name="LocationServiceTest.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="60" selection-start="435" selection-end="435" vertical-scroll-proportion="0.60310423">
+            <state line="15" column="40" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5654102">
               <folding>
                 <element signature="e#40#78#0" expanded="true" />
               </folding>
@@ -352,8 +352,8 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/TripPlanner.iws" />
         <option value="$PROJECT_DIR$/TripPlanner.iml" />
-        <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
       </list>
     </option>
   </component>
@@ -642,20 +642,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.LocationServiceTest.Test actor initialization">
-    <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="TripPlanner" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method>
-        <option name="Make" enabled="false" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.LocationServiceTest.Test consuming message">
     <configuration default="false" name="LocationTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -744,6 +731,28 @@
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="Test actor initialization" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocationServiceTest.Test consuming message" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Test consuming message" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <RunnerSettings RunnerId="Run" />
@@ -945,19 +954,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Groovy.build" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test consuming message" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.build" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test consuming message" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1017,7 +1026,11 @@
       <created>1378331030018</created>
       <updated>1378331030018</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test for receiving messages by actor">
+      <created>1378332038201</created>
+      <updated>1378332038201</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1097,7 +1110,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="actor initialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for receiving messages by actor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1118,6 +1131,7 @@
     <MESSAGE value="config files" />
     <MESSAGE value="fixed actor" />
     <MESSAGE value="actor initialization" />
+    <MESSAGE value="test for receiving messages by actor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1224,7 +1238,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="60" selection-start="435" selection-end="435" vertical-scroll-proportion="0.60310423">
+        <state line="15" column="40" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5654102">
           <folding>
             <element signature="e#40#78#0" expanded="true" />
           </folding>
