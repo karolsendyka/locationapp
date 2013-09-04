@@ -1,0 +1,19 @@
+apply plugin: 'scala'
+apply plugin: 'idea'
+
+
+
+repositories {
+    mavenCentral()
+}
+
+// remove libs directory when http://youtrack.jetbrains.com/issue/SCL-4704 will be fixed
+dependencies{
+    compile 'org.scala-lang:scala-compiler:2.10.1'
+    compile 'org.scala-lang:scala-library:2.10.1'
+    testCompile 'org.scalatest:scalatest_2.10.0:2.0.M5'
+
+    compile 'com.typesafe.akka:akka-actor_2.10:2.1.1'
+    testCompile 'com.typesafe.akka:akka-testkit_2.10:2.1.1'
+}
+

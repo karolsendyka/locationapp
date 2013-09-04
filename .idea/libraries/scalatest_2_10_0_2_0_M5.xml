@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="scalatest_2.10.0-2.0.M5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-13/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/jar/8dca85c6b4d3e5dac32ea6de6cd69cca78dbc544/scalatest_2.10.0-2.0.M5.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/jar/8dca85c6b4d3e5dac32ea6de6cd69cca78dbc544/scalatest_2.10.0-2.0.M5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-13/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="akka-testkit_2.10-2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-13/filestore/com.typesafe.akka/akka-testkit_2.10/2.1.1/bundle/6f7f7618903e666fee24c9ebce8d9bd879cfdcf9/akka-testkit_2.10-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/com.typesafe.akka/akka-testkit_2.10/2.1.1/bundle/6f7f7618903e666fee24c9ebce8d9bd879cfdcf9/akka-testkit_2.10-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-13/filestore/com.typesafe.akka/akka-testkit_2.10/2.1.1/source/30a048d5a89b883cda7384a8cc76ac542c4ddfbd/akka-testkit_2.10-2.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/com.typesafe.akka/akka-testkit_2.10/2.1.1/source/30a048d5a89b883cda7384a8cc76ac542c4ddfbd/akka-testkit_2.10-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
