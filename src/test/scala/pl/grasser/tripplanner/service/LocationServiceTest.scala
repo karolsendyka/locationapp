@@ -15,7 +15,7 @@ class LocationServiceTest extends FunSuite with ShouldMatchers{
   test("Test consuming message"){
     val system = ActorSystem("TestSystem")
     val locationService = system.actorOf(Props[LocationService])
-    locationService ! " sialalal"
+    locationService ! "test"
   }
 
 }
