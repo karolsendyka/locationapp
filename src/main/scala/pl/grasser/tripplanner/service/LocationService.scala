@@ -12,6 +12,10 @@ class LocationService extends Actor with ActorLogging{
 
   def receive = {
     case "test" ⇒ log.info("received test")
+    case "hello" ⇒ {
+      log.info("received hello")
+      sender ! "Hello!"
+    }
     case _      ⇒ log.info("received unknown message")
   }
 
