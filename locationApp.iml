@@ -38,6 +38,25 @@
     <orderEntry type="library" exported="" name="akka-actor_2.10-2.1.1" level="project" />
     <orderEntry type="library" exported="" name="scala-compiler-2.10.1" level="project" />
     <orderEntry type="library" scope="TEST" name="akka-testkit_2.10-2.1.1" level="project" />
+    <orderEntry type="library" exported="" name="lift-db_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="commons-fileupload-1.2.2" level="project" />
+    <orderEntry type="library" exported="" name="activation-1.1" level="project" />
+    <orderEntry type="library" exported="" name="paranamer-2.4.1" level="project" />
+    <orderEntry type="library" exported="" name="lift-mapper_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="mail-1.4.4" level="project" />
+    <orderEntry type="library" exported="" name="lift-proto_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="lift-actor_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="slf4j-api-1.7.2" level="project" />
+    <orderEntry type="library" exported="" name="lift-common_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="commons-codec-1.6" level="project" />
+    <orderEntry type="library" exported="" name="scalap-2.10.0" level="project" />
+    <orderEntry type="library" exported="" name="htmlparser-1.4" level="project" />
+    <orderEntry type="library" exported="" name="joda-time-2.1" level="project" />
+    <orderEntry type="library" exported="" name="scala-actors-2.10.0" level="project" />
+    <orderEntry type="library" exported="" name="joda-convert-1.2" level="project" />
+    <orderEntry type="library" exported="" name="lift-webkit_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="lift-util_2.10-2.5.1" level="project" />
+    <orderEntry type="library" exported="" name="lift-json_2.10-2.5.1" level="project" />
   </component>
 </module>
 
