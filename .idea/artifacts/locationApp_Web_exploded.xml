@@ -7,6 +7,32 @@
         <element id="directory" name="classes">
           <element id="module-output" name="locationApp" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="scala-library-2.10.1" />
+          <element id="library" level="project" name="scala-reflect-2.10.1" />
+          <element id="library" level="project" name="config-1.0.0" />
+          <element id="library" level="project" name="akka-actor_2.10-2.1.1" />
+          <element id="library" level="project" name="scala-compiler-2.10.1" />
+          <element id="library" level="project" name="lift-db_2.10-2.5.1" />
+          <element id="library" level="project" name="commons-fileupload-1.2.2" />
+          <element id="library" level="project" name="activation-1.1" />
+          <element id="library" level="project" name="paranamer-2.4.1" />
+          <element id="library" level="project" name="lift-mapper_2.10-2.5.1" />
+          <element id="library" level="project" name="mail-1.4.4" />
+          <element id="library" level="project" name="lift-proto_2.10-2.5.1" />
+          <element id="library" level="project" name="lift-actor_2.10-2.5.1" />
+          <element id="library" level="project" name="slf4j-api-1.7.2" />
+          <element id="library" level="project" name="lift-common_2.10-2.5.1" />
+          <element id="library" level="project" name="commons-codec-1.6" />
+          <element id="library" level="project" name="scalap-2.10.0" />
+          <element id="library" level="project" name="htmlparser-1.4" />
+          <element id="library" level="project" name="joda-time-2.1" />
+          <element id="library" level="project" name="scala-actors-2.10.0" />
+          <element id="library" level="project" name="joda-convert-1.2" />
+          <element id="library" level="project" name="lift-webkit_2.10-2.5.1" />
+          <element id="library" level="project" name="lift-util_2.10-2.5.1" />
+          <element id="library" level="project" name="lift-json_2.10-2.5.1" />
+        </element>
       </element>
     </root>
   </artifact>
