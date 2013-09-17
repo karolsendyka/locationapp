@@ -1,5 +1,4 @@
-package bootstrap
-
+package bootstrap.liftweb
 
 /**
  * User: Karol Sendyka (SG0212129)
@@ -10,6 +9,6 @@ package bootstrap
 class Boot {
 
   def boot {
-
+    System.out.println("HELLO !")
   }
 }
