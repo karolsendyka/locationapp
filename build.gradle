@@ -2,6 +2,8 @@ apply plugin: 'scala'
 apply plugin: 'idea'
 apply plugin: 'war'
 
+liftVersion = '_2.10:2.5.1'
+
 
 
 repositories {
@@ -9,9 +11,15 @@ repositories {
 }
 
 // remove libs directory when http://youtrack.jetbrains.com/issue/SCL-4704 will be fixed
-dependencies{
+dependencies {
     compile 'org.scala-lang:scala-compiler:2.10.1'
     compile 'org.scala-lang:scala-library:2.10.1'
+    compile "net.liftweb:lift-webkit$liftVersion",
+            "net.liftweb:lift-mapper$liftVersion",
+            "net.liftweb:lift-json$liftVersion",
+            "net.liftweb:lift-util$liftVersion",
+            "net.liftweb:lift-common$liftVersion"
+
     testCompile 'org.scalatest:scalatest_2.10.0:2.0.M5'
 
     compile 'com.typesafe.akka:akka-actor_2.10:2.1.1'
