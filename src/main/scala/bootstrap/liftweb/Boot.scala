@@ -1,5 +1,8 @@
 package bootstrap.liftweb
 
+import net.liftweb.http.LiftRules
+import net.liftweb.sitemap.{Loc, Menu, SiteMap}
+
 /**
  * User: Karol Sendyka (SG0212129)
  * Date: 17.09.13
@@ -9,6 +12,6 @@ package bootstrap.liftweb
 class Boot {
 
   def boot {
-    System.out.println("HELLO !")
+    LiftRules.dispatch.append(pl.grasser.tripplanner.Service)
   }
 }
