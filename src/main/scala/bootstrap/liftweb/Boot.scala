@@ -12,6 +12,6 @@ import net.liftweb.sitemap.{Loc, Menu, SiteMap}
 class Boot {
 
   def boot {
-    LiftRules.dispatch.append(pl.grasser.tripplanner.Service)
+    LiftRules.statelessDispatch.append(pl.grasser.tripplanner.Service)
   }
 }
