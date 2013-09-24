@@ -2,7 +2,7 @@ package pl.grasser.helloworld
 
 import net.liftweb.http.rest.RestHelper
 import akka.actor.{ActorRef, Props, ActorSystem}
-import pl.grasser.tripplanner.service.HelloService
+import pl.grasser.tripplanner.service.HelloActor
 import scala.concurrent.Await
 import akka.pattern.ask
 import scala.concurrent.duration._
@@ -14,13 +14,13 @@ import akka.util.Timeout
  * Time: 23:13
  */
 
-object Service extends RestHelper {
+object HelloService extends RestHelper {
 
   serve {
     case Get("testrest" :: param, _) => {
       implicit val timeout = Timeout(10 seconds)
       val system: ActorSystem = ActorSystem("TestSystem")
-      val service: ActorRef = system.actorOf(Props[HelloService])
+      val service: ActorRef = system.actorOf(Props[HelloActor])
       val future = service ? "hello"
       val response:String = Await.result(future.mapTo[String], 10 seconds)
       response
