@@ -8,7 +8,7 @@ import akka.actor.{ActorLogging, Actor}
  * Time: 23:01
  */
 
-class LocationService extends Actor with ActorLogging{
+class LocationService extends Actor with ActorLogging {
 
   def receive = {
     case "test" ⇒ log.info("received test")
@@ -16,7 +16,7 @@ class LocationService extends Actor with ActorLogging{
       log.info("received hello")
       sender ! "Hello!"
     }
-    case _      ⇒ log.info("received unknown message")
+    case _ ⇒ log.info("received unknown message")
   }
 
 
