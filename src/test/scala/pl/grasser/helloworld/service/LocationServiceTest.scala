@@ -18,14 +18,14 @@ class LocationServiceTest extends FunSuite with ShouldMatchers{
 
   test("Test consuming message"){
     val system = ActorSystem("TestSystem")
-    val locationService = system.actorOf(Props[LocationService])
+    val locationService = system.actorOf(Props[HelloService])
     locationService ! "test"
   }
 
   test("Test getting response from actor"){
     val system = ActorSystem("TestSystem")
     implicit val timeout = Timeout(10 seconds)
-    val locationService  = system.actorOf(Props[LocationService])
+    val locationService  = system.actorOf(Props[HelloService])
     val future = locationService ? "hello"
     val response:String = Await.result(future.mapTo[String], 10 seconds)
     response should equal("Hello!")

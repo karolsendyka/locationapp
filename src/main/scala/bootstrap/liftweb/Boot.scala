@@ -2,6 +2,7 @@ package bootstrap.liftweb
 
 import net.liftweb.http.LiftRules
 import net.liftweb.sitemap.{Loc, Menu, SiteMap}
+import pl.grasser.helloworld.Service
 
 /**
  * User: Karol Sendyka (SG0212129)
@@ -12,6 +13,6 @@ import net.liftweb.sitemap.{Loc, Menu, SiteMap}
 class Boot {
 
   def boot {
-    LiftRules.statelessDispatch.append(pl.grasser.tripplanner.Service)
+    LiftRules.statelessDispatch.append(pl.grasser.helloworld.Service)
   }
 }
