@@ -23,7 +23,6 @@ object HelloService extends RestHelper {
       val service: ActorRef = system.actorOf(Props[HelloActor])
       val future = service ? "hello"
       val response:String = Await.result(future.mapTo[String], 10 seconds)
-      response
      <b>{response} {param}</b>
     }
   }
