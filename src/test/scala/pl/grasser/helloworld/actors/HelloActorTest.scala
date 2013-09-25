@@ -14,7 +14,7 @@ import scala.concurrent.duration._
  * Time: 9:06 PM
  */
 
-class LocationServiceTest extends FunSuite with ShouldMatchers{
+class HelloActorTest extends FunSuite with ShouldMatchers{
 
   test("Test consuming message"){
     val system = ActorSystem("TestSystem")
