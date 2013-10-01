@@ -5,8 +5,8 @@ import org.scalatest.FunSuite
 import org.scalatest.matchers.ShouldMatchers
 import scala.concurrent.Await
 import akka.pattern.ask
-import akka.util.Timeout
 import scala.concurrent.duration._
+import akka.util.Timeout
 
 /**
  * User: Karol Sendyka (SG0212129)
@@ -15,16 +15,15 @@ import scala.concurrent.duration._
  */
 
 class HelloActorTest extends FunSuite with ShouldMatchers{
+  implicit val timeout = Timeout(10 seconds)
 
   test("Test consuming message"){
     val system = ActorSystem("TestSystem")
     val locationService = system.actorOf(Props[HelloActor])
     locationService ! "test"
   }
-
   test("Test getting response from actor"){
     val system = ActorSystem("TestSystem")
-    implicit val timeout = Timeout(10 seconds)
     val locationService  = system.actorOf(Props[HelloActor])
     val future = locationService ? "hello"
     val response:String = Await.result(future.mapTo[String], 10 seconds)
