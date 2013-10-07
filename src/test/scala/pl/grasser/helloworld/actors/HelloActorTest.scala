@@ -17,17 +17,20 @@ import akka.util.Timeout
 class HelloActorTest extends FunSuite with ShouldMatchers{
   implicit val timeout = Timeout(10 seconds)
 
-  test("Test consuming message"){
-    val system = ActorSystem("TestSystem")
-    val locationService = system.actorOf(Props[HelloActor])
-    locationService ! "test"
-  }
   test("Test getting response from actor"){
     val system = ActorSystem("TestSystem")
     val locationService  = system.actorOf(Props[HelloActor])
     val future = locationService ? "hello"
     val response:String = Await.result(future.mapTo[String], 10 seconds)
     response should equal("Hello!")
+  }
+
+  test("Test getting response from actor for unknown message"){
+    val system = ActorSystem("TestSystem")
+    val locationService  = system.actorOf(Props[HelloActor])
+    val future = locationService ? "unknown message"
+    val response:String = Await.result(future.mapTo[String], 10 seconds)
+    response should equal("What ?")
   }
 
 }

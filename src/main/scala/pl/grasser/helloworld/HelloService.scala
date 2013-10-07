@@ -7,6 +7,8 @@ import scala.concurrent.Await
 import akka.pattern.ask
 import scala.concurrent.duration._
 import akka.util.Timeout
+import net.liftweb.json.JsonAST.JString
+import net.liftweb.common.Logger
 
 /**
  * User: Karol Sendyka (SG0212129)
@@ -14,16 +16,17 @@ import akka.util.Timeout
  * Time: 23:13
  */
 
-object HelloService extends RestHelper {
+object HelloService extends RestHelper with Logger {
 
   serve {
     case Get("testrest" :: param, _) => {
+      info("Received parameter: " + param)
       implicit val timeout = Timeout(10 seconds)
       val system: ActorSystem = ActorSystem("TestSystem")
       val service: ActorRef = system.actorOf(Props[HelloActor])
-      val future = service ? "hello"
+      val future = service ? param(0)
       val response:String = Await.result(future.mapTo[String], 10 seconds)
-     <b>{response} {param}</b>
+     JString(response)
     }
   }
 
