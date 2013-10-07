@@ -3,6 +3,7 @@ apply plugin: 'idea'
 apply plugin: 'war'
 
 liftVersion = '_2.10:2.5.1'
+neo4jVersion = '1.9.4'
 
 
 
@@ -19,6 +20,7 @@ dependencies {
             "net.liftweb:lift-json$liftVersion",
             "net.liftweb:lift-util$liftVersion",
             "net.liftweb:lift-common$liftVersion"
+    compile "org.neo4j:neo4j:${neo4jVersion}"
 
     testCompile 'org.scalatest:scalatest_2.10.0:2.0.M5'
 
