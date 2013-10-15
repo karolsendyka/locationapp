@@ -11,8 +11,11 @@ repositories {
     mavenCentral()
 }
 
-// remove libs directory when http://youtrack.jetbrains.com/issue/SCL-4704 will be fixed
 dependencies {
+    compile "org.slf4j:slf4j-log4j12:1.7.5"
+    compile "org.slf4j:log4j-over-slf4j:1.7.5"
+    compile "log4j:log4j:1.2.16"
+
     compile 'org.scala-lang:scala-compiler:2.10.1'
     compile 'org.scala-lang:scala-library:2.10.1'
     compile "net.liftweb:lift-webkit$liftVersion",
@@ -21,7 +24,6 @@ dependencies {
             "net.liftweb:lift-util$liftVersion",
             "net.liftweb:lift-common$liftVersion"
     compile "org.neo4j:neo4j:${neo4jVersion}"
-
     testCompile 'org.scalatest:scalatest_2.10.0:2.0.M5'
 
     compile 'com.typesafe.akka:akka-actor_2.10:2.1.1'

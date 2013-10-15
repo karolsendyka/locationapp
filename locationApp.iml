@@ -46,7 +46,6 @@
     <orderEntry type="library" exported="" name="mail-1.4.4" level="project" />
     <orderEntry type="library" exported="" name="lift-proto_2.10-2.5.1" level="project" />
     <orderEntry type="library" exported="" name="lift-actor_2.10-2.5.1" level="project" />
-    <orderEntry type="library" exported="" name="slf4j-api-1.7.2" level="project" />
     <orderEntry type="library" exported="" name="lift-common_2.10-2.5.1" level="project" />
     <orderEntry type="library" exported="" name="commons-codec-1.6" level="project" />
     <orderEntry type="library" exported="" name="scalap-2.10.0" level="project" />
@@ -68,6 +67,10 @@
     <orderEntry type="library" exported="" name="neo4j-udc-1.9.4" level="project" />
     <orderEntry type="library" exported="" name="geronimo-jta_1.1_spec-1.1.1" level="project" />
     <orderEntry type="library" exported="" name="neo4j-graph-algo-1.9.4" level="project" />
+    <orderEntry type="library" exported="" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" exported="" name="slf4j-log4j12-1.7.5" level="project" />
+    <orderEntry type="library" exported="" name="slf4j-api-1.7.5" level="project" />
+    <orderEntry type="library" exported="" name="log4j-over-slf4j-1.7.5" level="project" />
   </component>
 </module>
 
