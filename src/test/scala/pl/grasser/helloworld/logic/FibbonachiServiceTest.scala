@@ -17,26 +17,13 @@ class FibbonachiServiceTest extends FunSuite with ShouldMatchers {
 
 
 
-  test("should return x fibbonacchi number using loop 1 "){
+  test("should return x fibbonacchi number using loop "){
     testMethod(service.getFibNumberLoop)
   }
-
-
-  test("should return x fibbonacchi number using recurency 1 "){
-    testMethod(service.getFibNumberRec)
-  }
-
-
-  test("should return x fibbonacchi number using loop"){
-    testMethod(service.getFibNumberLoop)
-  }
-
 
   test("should return x fibbonacchi number using recurency"){
     testMethod(service.getFibNumberRec)
   }
-
-
 
 
 
