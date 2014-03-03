@@ -26,7 +26,6 @@ class FibbonachiServiceTest extends FunSuite with ShouldMatchers {
   }
 
 
-
   def testMethod (fibFunction: (Integer) => Integer){
     for (i <- 0 until expectedFibbonachis.length) {
       fibFunction(i) should equal(expectedFibbonachis(i))
