@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mail-1.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/javax.mail/mail/1.4.4/jar/b907ef0a02ff6e809392b1e7149198497fcc8e49/mail-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/javax.mail/mail/1.4.4/source/9a3edcd52cf891e7492776174e5a26cc7911b26/mail-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

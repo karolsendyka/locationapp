@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lift-common_2.10-2.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/net.liftweb/lift-common_2.10/2.5.1/jar/b62902ece23dd7602d65c810d3ed1b39b3974d66/lift-common_2.10-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/net.liftweb/lift-common_2.10/2.5.1/source/a877846b2ee9dddcc30b21dd23ddd1c0b0130214/lift-common_2.10-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

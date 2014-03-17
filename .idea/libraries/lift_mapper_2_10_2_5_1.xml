@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lift-mapper_2.10-2.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/net.liftweb/lift-mapper_2.10/2.5.1/jar/bd55a3b3bfd34936c3a6d6e69a0e85db820aaaa2/lift-mapper_2.10-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/net.liftweb/lift-mapper_2.10/2.5.1/source/44b7e753cdd1022b615d34f0d37bf34e6c9af88c/lift-mapper_2.10-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
