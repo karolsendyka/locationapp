@@ -1,0 +1,24 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>Static Ice</title>
+    <script src="js/jquery-1.10.2.js"></script>
+</head>
+<body>
+<H1>Static Content</H1>
+
+<script language="javascript">
+    function callRest() {
+        $.getJSON("testrest/" + $("#input").val(),
+                function (data) {
+                    alert(data);
+                });
+    }
+</script>
+
+Test HTML
+
+<input id="input"/>
+<a onclick="callRest()">Call Hello Service !</a>
+</body>
+</html>

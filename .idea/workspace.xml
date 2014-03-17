@@ -25,26 +25,113 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec50577-7a88-4c2b-8ee3-463e28582787" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
+    <list default="true" id="1ec50577-7a88-4c2b-8ee3-463e28582787" name="Default" comment="removed not used tests">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    </list>
+    <list id="008e70d7-2f10-490a-8b0b-606b2d370153" name="nocommit" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TripPlanner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/build.gradle" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363904604477" ignored="false" />
+    <file path="/build.gradle" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965098140" ignored="false" />
     <file path="/Location.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363902049702" ignored="false" />
-    <file path="/fragment.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378321582912" ignored="false" />
+    <file path="/fragment.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387977543754" ignored="false" />
     <file path="/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363903787554" ignored="false" />
-    <file path="/a.dummy" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363475268286" ignored="false" />
+    <file path="/a.dummy" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965196207" ignored="false" />
     <file path="/a.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363476026226" ignored="false" />
-    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378332032293" ignored="false" />
+    <file path="/Dummy.txt" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1395081515007" ignored="false" />
     <file path="$PROJECT_DIR$/../spring-akka-sample/src/main/java/org/springframework/samples/travel/search/AkkaSearchBean.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1363526684686" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/domain/Location.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="$PROJECT_DIR$/../../untitled/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378278489081" ignored="false" />
     <file path="/TripPlanner.iml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378320229271" ignored="false" />
-    <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378331887692" ignored="false" />
-    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378332117950" ignored="false" />
+    <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1379970535699" ignored="false" />
+    <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380137276491" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/weblogs/ctva998/-AP-ctva998.log" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378411271311" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378413090368" ignored="false" />
+    <file path="/index.jsp" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1379443467003" ignored="false" />
+    <file path="/web.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1395083826304" ignored="false" />
+    <file path="/Boot.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381176235588" ignored="false" />
+    <file path="/Service.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380052626367" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/logic/email/base/ProgramEmail.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1379487972839" ignored="false" />
+    <file path="/HelloActor.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1393881726144" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedPayment.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expectedAASResults.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insertTBank.initial.emdA.voidsale.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/resources/wsapiContext.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381906452789" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-aas-debit.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-tb-pay.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/config/service/jsonconfig/JsonConfigService.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-tb-svc.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-tb-debit.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-aas-pay.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insertTBank.misc.initial.confirm.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-tb-multi.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/expected-aas-svc.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedRefundTBankExistingEMD.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/importpaymentinformation/configuration/deleteAllTransactions.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insert.initial.balance.aas.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/loyalty/crystal/wsapi/handler/RequestHandler.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedPaymentDBT.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/resources/testDataSources.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381906452789" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/base/CentivaUserCredentialsDataSourceAdapter.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedPayment.pay.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedPayment.after.svc.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/resources/integrationTestDataSources.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insert.initial.emd.for.refund.tbank.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insertTBank.initial.emdS.voidsale.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/BeanNames.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/UnusedTablesFinderTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insert.initial.emd.for.void.refund.tbank.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/resources/applicationContext.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/resources/commonDataAccessContext.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/insert.initial.balance.tbank.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/resources/webservicesContext.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381906452789" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedTBankVoidExistingEMDRefund.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expectedRefundTBankNonExistingEMD.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFitTest/com/sabre/cas/centiva/CentivaBaseDoFixture.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/webservices/balance/configuration/expected.payment.initial.state.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380087935449" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/logic/account/base/AccountTransaction.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380088188324" ignored="false" />
+    <file path="/AccountTransaction.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380088135851" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/configuration/common/genericquery.properties" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcFuncTest/com/sabre/cas/centiva/processing/TransactionImportDbTestBase.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089206350" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/transaction/dao/TBankStatementDao.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089611919" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/transaction/dao/ITBankStatementDao.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089611919" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src.web/com/sabre/asd/loyalty/view/tbank/TbankStatementViewHelper.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380089611919" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/srcTest/com/sabre/cas/centiva/processing/transactionimport/TransactionRecordTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380098272589" ignored="false" />
+    <file path="/TransactionRecordTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380098271726" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src.processing/com/sabre/cas/centiva/processing/easrimport/EASRTransactionRecord.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380091570845" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src.processing/com/sabre/cas/centiva/processing/transactionimport/TransactionRecord.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380097348629" ignored="false" />
+    <file path="/HelloService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381179734634" ignored="false" />
+    <file path="/HelloService$Test.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380140610466" ignored="false" />
+    <file path="/HelloActorTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381179919445" ignored="false" />
+    <file path="/package.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380657581281" ignored="false" />
+    <file path="/index.html" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381180030999" ignored="false" />
+    <file path="/Dummy.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381179756838" ignored="false" />
+    <file path="/log4j.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381863896901" ignored="false" />
+    <file path="X:/workspace/CEM/cem-web-app/web-app/pom.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381863944928" ignored="false" />
+    <file path="/pom.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381863938244" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src.web/com/sabre/cas/centiva/webservices/base/BaseActionProcessor.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381906452789" ignored="false" />
+    <file path="X:/workspace/Centiva/trunk/src/com/sabre/cas/centiva/BeanMapFactoryBean.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381906452789" ignored="false" />
+    <file path="/FibbonachiServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387228325661" ignored="false" />
+    <file path="/FibbonachiService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387229075652" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/build.gradle" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965527538" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/concurrent/ImmutableTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387968479588" ignored="false" />
+    <file path="/ImmutableTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387968460095" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/java/core/TryCatchTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965238685" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/core/TryCatchTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965312556" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/core/TryCatch.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965301238" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/core/MemoryErrorTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965383103" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/tasks/findnumbers/Find100Numbers.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387979161932" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bitbucket/JavaTest/src/test/tasks/findnumbers/Find100NumbersTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387979517759" ignored="false" />
+    <file path="/Find100Numbers.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387979160404" ignored="false" />
+    <file path="/Find100NumbersTest.java" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387979508215" ignored="false" />
+    <file path="/a.groovy" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1395082184910" ignored="false" />
+    <file path="/map.html" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1395084201160" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +191,38 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/HelloService.scala" line="22" class="pl.grasser.helloworld.HelloService$" package="pl.grasser.helloworld">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/actors/HelloActor.scala" line="17" class="pl.grasser.tripplanner.service.HelloActor" package="pl.grasser.tripplanner.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -113,93 +232,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LocationTest.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala">
+      <file leaf-file-name="map.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/map/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+            <state line="8" column="6" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2962963">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunSuite.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/FunSuite.scala">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1370" column="6" selection-start="59450" selection-end="59450" vertical-scroll-proportion="0.0">
+            <state line="11" column="27" selection-start="530" selection-end="530" vertical-scroll-proportion="-7.48">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocationService.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="43" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocationServiceTest.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="40" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5654102">
-              <folding>
-                <element signature="e#40#78#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShouldMatchers.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/matchers/ShouldMatchers.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="882" column="6" selection-start="35524" selection-end="35524" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Actor.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/com.typesafe.akka/akka-actor_2.10/2.1.1/source/f8acdbc706a90dd5fb6a876b0d1e08b5956926ef/akka-actor_2.10-2.1.1-sources.jar!/akka/actor/Actor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="360" column="6" selection-start="13602" selection-end="13602" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locationApp.ipr" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locationApp.ipr">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="-21.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locationApp.iws" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locationApp.iws">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="5" selection-start="687" selection-end="688" vertical-scroll-proportion="100.04">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locationApp.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locationApp.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="14" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
+            <state line="2" column="7" selection-start="51" selection-end="124" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -303,6 +366,10 @@
           <option name="description" value="Assembles the test classes." />
           <option name="name" value="testClasses" />
         </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+          <option name="name" value="war" />
+        </GradleTaskDescriptor>
       </set>
     </option>
     <option name="expandStates">
@@ -312,15 +379,26 @@
         <entry key="TripPlanner/TripPlanner" value="true" />
         <entry key="dependencies/FirstModule/TripPlanner" value="true" />
         <entry key="dependencies/TripPlanner/TripPlanner" value="true" />
+        <entry key="dependencies/locationApp/locationApp" value="true" />
         <entry key="locationApp" value="true" />
+        <entry key="locationApp/locationApp" value="true" />
         <entry key="scala-compiler-2.10.1/dependencies/TripPlanner/TripPlanner" value="false" />
+        <entry key="scala-library-2.10.1/dependencies/locationApp/locationApp" value="false" />
       </map>
     </option>
     <option name="recentTasks">
       <list>
         <GradleTaskDescriptor>
           <option name="executorId" value="Run" />
+          <option name="name" value="build" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="executorId" value="Run" />
           <option name="name" value="" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="executorId" value="Run" />
+          <option name="name" value="clean" />
         </GradleTaskDescriptor>
       </list>
     </option>
@@ -346,22 +424,37 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/FirstModule/src/main/scala/pl/grasser/tripplanner/service/MainService.scala" />
-        <option value="$PROJECT_DIR$/FirstModule/src/main/scala/pl/grasser/tripplanner/domain/Location.scala" />
-        <option value="$PROJECT_DIR$/FirstModule/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/ShowStatic.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/index.html" />
+        <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/helloworld/actors/HelloActorTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bootstrap/liftweb/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/HelloService.scala" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/TripPlanner.iws" />
-        <option value="$PROJECT_DIR$/TripPlanner.iml" />
-        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/webapp/indexext.html" />
+        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/logic/FibbonachiService.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/pl/grasser/helloworld/logic/FibbonachiServiceTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/actors/HelloActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/map/map.html" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -371,22 +464,58 @@
             <id />
           </State>
           <State>
-            <id>AOP</id>
+            <id>Abstraction issues</id>
           </State>
           <State>
             <id>Android Lint</id>
           </State>
           <State>
-            <id>Ant inspections</id>
+            <id>Assignment issues</id>
           </State>
           <State>
-            <id>Bash</id>
+            <id>Bitwise operation issuesJavaScript</id>
           </State>
           <State>
-            <id>Error handling</id>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
           </State>
           <State>
-            <id>FreeMarker inspections</id>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>General</id>
           </State>
           <State>
             <id>GeneralJavaScript</id>
@@ -398,56 +527,123 @@
             <id>Guice Inspections</id>
           </State>
           <State>
+            <id>Imports</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>IntelliJ IDEA Platform Inspections</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Logging issues</id>
+            <id>Javadoc issues</id>
           </State>
           <State>
-            <id>Memory issues</id>
+            <id>Naming conventions</id>
           </State>
           <State>
             <id>Numeric issues</id>
           </State>
           <State>
-            <id>Pattern Validation</id>
-          </State>
-          <State>
             <id>Performance issues</id>
-          </State>
-          <State>
-            <id>Portability issues</id>
           </State>
           <State>
             <id>Potentially confusing code constructsGroovy</id>
           </State>
           <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
             <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>SASS/SCSS</id>
           </State>
           <State>
             <id>Scala: General</id>
           </State>
           <State>
-            <id>Security issues</id>
+            <id>Scala: Method signature</id>
           </State>
           <State>
-            <id>Serialization issues</id>
+            <id>Spring IntegrationSpring Model</id>
           </State>
           <State>
             <id>Spring Model</id>
           </State>
           <State>
-            <id>Web Services</id>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
           </State>
           <State>
             <id>XML</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>Abstraction issues</id>
+            <id>XPath</id>
           </State>
-        </selected-state>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -462,7 +658,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -477,35 +673,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="FirstModule">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="FirstModule">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="All" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -513,10 +680,6 @@
               <option name="myItemId" value="locationApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -541,20 +704,26 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="locationApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locationApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tripplanner" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -572,19 +741,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tripplanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -599,101 +764,186 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locationApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locationApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/FirstModule/src/test/scala/pl/grasser/tripplanner/domain" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalacConfigurable" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="gradle.tool.window.active" value="Project" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="pl.grasser.tripplanner.service" />
-      <recent name="pl.grasser.tripplanner.domain" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.grasser.helloworld.logic" />
+      <recent name="pl.grasser.helloworld" />
+      <recent name="pl.grasser.tripplanner.service" />
+      <recent name="pl.grasser.tripplanner.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp\map" />
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp" />
+      <recent name="X:\private\workspace\github\locationApp\src\main\resources" />
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp\extjs" />
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp\js" />
+      <recent name="X:\private\workspace\github\locationApp\src\main\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.grasser.helloworld.actors" />
+    </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.LocationServiceTest.Test consuming message">
-    <configuration default="false" name="LocationTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.24">
+    <configuration default="false" name="FibbonachiServiceTest.should return x fibbonacchi number" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="pl.grasser.tripplanner.domain.*" />
+          <option name="PATTERN" value="pl.grasser.helloworld.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="scalaCoverage" />
-      <module name="TripPlanner" />
-      <setting name="path" value="pl.grasser.tripplanner.domain.LocationTest" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.helloworld.logic.FibbonachiServiceTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="should return x fibbonacchi number" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FibbonachiServiceTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.grasser.helloworld.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.helloworld.logic.FibbonachiServiceTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Profile ">
-        <option name="myExternalizedOptions" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LocationTest.construct object" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration default="false" name="FibbonachiServiceTest.should return x fibbonacchi number using loop" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="pl.grasser.tripplanner.domain.*" />
+          <option name="PATTERN" value="pl.grasser.helloworld.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="scalaCoverage" />
       <module name="locationApp" />
-      <setting name="path" value="pl.grasser.tripplanner.domain.LocationTest" />
+      <setting name="path" value="pl.grasser.helloworld.logic.FibbonachiServiceTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="construct object" />
+      <setting name="testName" value="should return x fibbonacchi number using loop" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Profile ">
-        <option name="myExternalizedOptions" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LocationServiceTest.Init actor" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration default="false" name="FibbonachiServiceTest.should return x fibbonacchi number using recurency" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.grasser.helloworld.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="locationApp" />
+      <setting name="path" value="pl.grasser.helloworld.logic.FibbonachiServiceTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="should return x fibbonacchi number using recurency" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HelloActorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
@@ -702,67 +952,17 @@
       </extension>
       <extension name="scalaCoverage" />
       <module name="locationApp" />
-      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
+      <setting name="path" value="pl.grasser.tripplanner.service.HelloActorTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Init actor" />
-      <setting name="testKind" value="Test name" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LocationServiceTest.Test actor initialization" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="scalaCoverage" />
-      <module name="locationApp" />
-      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Test actor initialization" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LocationServiceTest.Test consuming message" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="pl.grasser.tripplanner.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="scalaCoverage" />
-      <module name="locationApp" />
-      <setting name="path" value="pl.grasser.tripplanner.service.LocationServiceTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Test consuming message" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -774,12 +974,31 @@
       <setting name="debug" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -810,19 +1029,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -836,6 +1042,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -859,19 +1072,11 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
@@ -953,20 +1158,156 @@
       </ConfigurationWrapper>
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test consuming message" />
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62940" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Profile ">
+        <option name="myExternalizedOptions" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Profile " />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.24">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/web" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="locationApp:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_locationApp" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <log_file path="%IDEA_RUN:TOMCAT_HOME%/logs/catalina.out" checked="true" skipped="true" show_all="false" alias="catalina" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58501" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Profile ">
+        <option name="myExternalizedOptions" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile ">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="locationApp:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number using loop" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number using recurency" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.HelloActorTest" />
+      <item index="5" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0.24" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test consuming message" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Test actor initialization" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LocationServiceTest.Init actor" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LocationTest.construct object" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.LocationTest" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.HelloActorTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number using recurency" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number using loop" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.FibbonachiServiceTest.should return x fibbonacchi number" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -995,6 +1336,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1ec50577-7a88-4c2b-8ee3-463e28582787" name="Default" comment="" />
+      <changelist id="008e70d7-2f10-490a-8b0b-606b2d370153" name="nocommit" comment="" />
       <created>1363469894190</created>
       <updated>1363469894190</updated>
     </task>
@@ -1030,41 +1372,135 @@
       <created>1378332038201</created>
       <updated>1378332038201</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test for receiving messages by actor">
+      <created>1378332143085</created>
+      <updated>1378332143085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test for receiving messages by actor">
+      <created>1378332208222</created>
+      <updated>1378332208222</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test for receiving messages by actor">
+      <created>1378413070458</created>
+      <updated>1378413070458</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added web app">
+      <created>1379444207422</created>
+      <updated>1379444207422</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added lift">
+      <created>1379444876451</created>
+      <updated>1379444876451</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lift integration">
+      <created>1379445135263</created>
+      <updated>1379445135263</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lift integration">
+      <created>1379445284001</created>
+      <updated>1379445284001</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lift integration">
+      <created>1379445796417</created>
+      <updated>1379445796417</updated>
+    </task>
+    <task id="LOCAL-00017" summary="lift integration">
+      <created>1379446215769</created>
+      <updated>1379446215769</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added rest service">
+      <created>1379453755295</created>
+      <updated>1379453755295</updated>
+    </task>
+    <task id="LOCAL-00019" summary="make rest service stateless">
+      <created>1379488010442</created>
+      <updated>1379488010442</updated>
+    </task>
+    <task id="LOCAL-00020" summary="integration of rest service with akka actor">
+      <created>1380052935872</created>
+      <updated>1380052935872</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed packages">
+      <created>1380053220150</created>
+      <updated>1380053220150</updated>
+    </task>
+    <task id="LOCAL-00022" summary="renaming">
+      <created>1380053550012</created>
+      <updated>1380053550012</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cleanup">
+      <created>1380054134314</created>
+      <updated>1380054134314</updated>
+    </task>
+    <task id="LOCAL-00024" summary="cleanup">
+      <created>1380140795197</created>
+      <updated>1380140795197</updated>
+    </task>
+    <task id="LOCAL-00025" summary="cleanup">
+      <created>1380657912213</created>
+      <updated>1380657912213</updated>
+    </task>
+    <task id="LOCAL-00026" summary="web interface integration">
+      <created>1381180061940</created>
+      <updated>1381180061940</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added neo4j libs">
+      <created>1381180779529</created>
+      <updated>1381180779529</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added logger config, extjs library">
+      <created>1381870009174</created>
+      <updated>1381870009174</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added fake services computing fibbonachii">
+      <created>1393881548618</created>
+      <updated>1393881548618</updated>
+    </task>
+    <task id="LOCAL-00030" summary="removed not used tests">
+      <created>1393881678969</created>
+      <updated>1393881678969</updated>
+    </task>
+    <task id="LOCAL-00031" summary="removed not used tests">
+      <created>1393881687738</created>
+      <updated>1393881687738</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.8719317" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18468468" sideWeight="0.6926286" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.8719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22651222" sideWeight="0.5674548" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22393823" sideWeight="0.12656467" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32545203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31813127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38260406" sideWeight="0.20421754" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21557271" sideWeight="0.6926286" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30737135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38207045" sideWeight="0.5684093" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43159065" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.67045456" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1110,7 +1546,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for receiving messages by actor" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed not used tests" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1132,6 +1568,20 @@
     <MESSAGE value="fixed actor" />
     <MESSAGE value="actor initialization" />
     <MESSAGE value="test for receiving messages by actor" />
+    <MESSAGE value="added web app" />
+    <MESSAGE value="added lift" />
+    <MESSAGE value="lift integration" />
+    <MESSAGE value="added rest service" />
+    <MESSAGE value="make rest service stateless" />
+    <MESSAGE value="integration of rest service with akka actor" />
+    <MESSAGE value="changed packages" />
+    <MESSAGE value="renaming" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="web interface integration" />
+    <MESSAGE value="added neo4j libs" />
+    <MESSAGE value="added logger config, extjs library" />
+    <MESSAGE value="added fake services computing fibbonachii" />
+    <MESSAGE value="removed not used tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1141,107 +1591,122 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/indexext.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="49" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="67" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/domain/Location.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/com.typesafe.akka/akka-actor_2.10/2.1.1/source/f8acdbc706a90dd5fb6a876b0d1e08b5956926ef/akka-actor_2.10-2.1.1-sources.jar!/akka/actor/Actor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="360" column="6" selection-start="13602" selection-end="13602" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/FunSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1370" column="6" selection-start="59450" selection-end="59450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locationApp.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locationApp.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="687" selection-end="688" vertical-scroll-proportion="100.04">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locationApp.ipr">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="33" selection-start="3754" selection-end="3762" vertical-scroll-proportion="-21.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scalatest/scalatest_2.10.0/2.0.M5/source/6254093696925f19fff510e4fabc351227c618a9/scalatest_2.10.0-2.0.M5-sources.jar!/org/scalatest/matchers/ShouldMatchers.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="882" column="6" selection-start="35524" selection-end="35524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="-6.5384617" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/domain/LocationTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+        <state line="12" column="55" selection-start="212" selection-end="248" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/service/LocationService.scala">
+    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.scala-lang/scala-library/2.10.1/source/74ea8c5004d5f7c50e0deb5b9295295e1d8f7cd/scala-library-2.10.1-sources.jar!/scala/collection/immutable/List.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+        <state line="314" column="6" selection-start="10518" selection-end="10518" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/tripplanner/service/LocationServiceTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/tripplanner/domain/Location.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="40" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5654102">
-          <folding>
-            <element signature="e#40#78#0" expanded="true" />
-          </folding>
+        <state line="9" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/net.liftweb/lift-webkit_2.10/2.5.1/source/360b310469b815fa0bb2a7b08f9286f47ae4b87/lift-webkit_2.10-2.5.1-sources.jar!/net/liftweb/http/rest/RestHelper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="6" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/helloworld/logic/FibbonachiServiceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/pl/grasser/helloworld/actors/HelloActorTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/logic/FibbonachiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/HelloService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="39" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pl/grasser/helloworld/actors/HelloActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/map/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="51" selection-end="124" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="530" selection-end="530" vertical-scroll-proportion="-7.48">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/map/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="6" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2962963">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,10 +1716,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>locationApp:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1286,7 +1753,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1298,7 +1765,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Scala|locationApp</last-edited>
+          <last-edited>Web|locationApp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1322,7 +1789,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-4.11</last-edited>
+          <last-edited>commons-logging-1.1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
