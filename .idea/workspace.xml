@@ -26,15 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec50577-7a88-4c2b-8ee3-463e28582787" name="Default" comment="removed not used tests">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/map/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/map/map.html" afterPath="$PROJECT_DIR$/src/main/webapp/map/map.html" />
     </list>
-    <list id="008e70d7-2f10-490a-8b0b-606b2d370153" name="nocommit" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list id="008e70d7-2f10-490a-8b0b-606b2d370153" name="nocommit" comment="" />
     <ignored path="TripPlanner.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/build.gradle" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1387965098140" ignored="false" />
@@ -52,7 +46,6 @@
     <file path="/LocationService.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1379970535699" ignored="false" />
     <file path="/LocationServiceTest.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1380137276491" ignored="false" />
     <file path="X:/workspace/Centiva/trunk/weblogs/ctva998/-AP-ctva998.log" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378411271311" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1378413090368" ignored="false" />
     <file path="/index.jsp" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1379443467003" ignored="false" />
     <file path="/web.xml" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1395083826304" ignored="false" />
     <file path="/Boot.scala" changelist="1ec50577-7a88-4c2b-8ee3-463e28582787" time="1381176235588" ignored="false" />
@@ -235,7 +228,7 @@
       <file leaf-file-name="map.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/map/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="6" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2962963">
+            <state line="7" column="115" selection-start="536" selection-end="536" vertical-scroll-proportion="0.25925925">
               <folding />
             </state>
           </provider>
@@ -1705,7 +1698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/map/map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2962963">
+        <state line="7" column="115" selection-start="536" selection-end="536" vertical-scroll-proportion="0.25925925">
           <folding />
         </state>
       </provider>
