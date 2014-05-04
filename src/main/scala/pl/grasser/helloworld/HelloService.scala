@@ -19,8 +19,8 @@ import net.liftweb.common.Logger
 object HelloService extends RestHelper with Logger {
 
   serve {
-    case Get("testrest" :: param, _) => {
-      info("Received parameter: " + param)
+    case Get(context :: param, _) => {
+      info("Received parameter: " + param + " for context: " + context)
       implicit val timeout = Timeout(10 seconds)
       val system: ActorSystem = ActorSystem("TestSystem")
       val service: ActorRef = system.actorOf(Props[HelloActor])
